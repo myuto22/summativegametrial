@@ -194,7 +194,7 @@ function startBlockAction() {
       alert('press z to suicide');
       var1 = false;
     } else if (xLine == -100 && yLine == 600){
-      location.href='index 2.html';
+      location.href='index2.html';
     }
   }, 10);
 }
